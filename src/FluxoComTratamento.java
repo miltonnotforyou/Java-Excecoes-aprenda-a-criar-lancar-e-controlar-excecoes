@@ -22,7 +22,7 @@ public class FluxoComTratamento {
     private static void metodo2() {
         System.out.println("Ini do metodo2");
 
-        throw new ArithmeticException("deu erro");
+        throw new MinhaExcecao("deu muito errado!");
 
 //        System.out.println("Fim do metodo2");
     }

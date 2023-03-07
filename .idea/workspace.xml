@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3bb512-9921-4362-92ab-4d727a460bd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MinhaExcecao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FluxoComTratamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FluxoComTratamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FluxoComTratamento">
+  <component name="RunManager" selected="Application.Fluxo">
     <configuration name="Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fluxo" />
       <module name="Java Excecoes aprenda a criar lancar e controlar excecoes" />
@@ -60,8 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FluxoComTratamento" />
         <item itemvalue="Application.Fluxo" />
+        <item itemvalue="Application.FluxoComTratamento" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677942036666</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionando arquivos do curso">
+      <created>1678186608073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678186608073</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

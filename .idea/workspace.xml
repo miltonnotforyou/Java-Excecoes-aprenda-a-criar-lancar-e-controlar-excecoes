@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f3bb512-9921-4362-92ab-4d727a460bd2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MV6PyKAdIZWOs3JtQbvW6xoVAP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/Projetos/Java Excecoes aprenda a criar lancar e controlar excecoes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestaConexao">
+    <configuration name="Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fluxo" />
+      <module name="Java Excecoes aprenda a criar lancar e controlar excecoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluxoComErro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluxoComErro" />
+      <module name="Java Excecoes aprenda a criar lancar e controlar excecoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluxoComTratamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluxoComTratamento" />
+      <module name="Java Excecoes aprenda a criar lancar e controlar excecoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaConexao" />
+      <module name="Java Excecoes aprenda a criar lancar e controlar excecoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaConexao" />
+        <item itemvalue="Application.FluxoComErro" />
+        <item itemvalue="Application.FluxoComTratamento" />
+        <item itemvalue="Application.Fluxo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3bb512-9921-4362-92ab-4d727a460bd2" name="Changes" comment="" />
+      <created>1677840381427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677840381427</updated>
+    </task>
+    <task id="LOCAL-00001" summary="primeiro commit">
+      <created>1677840442695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677840442695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adicionando arquivos do curso">
+      <created>1677841789455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677841789455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adicionando arquivos do curso">
+      <created>1677942036666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677942036666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adicionando arquivos do curso">
+      <created>1678186608073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678186608073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adicionando arquivos do curso">
+      <created>1678187547321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678187547321</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adicionando arquivos do curso">
+      <created>1678189948864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678189948864</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adicionando arquivos do curso">
+      <created>1678209444621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678209444621</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adicionando arquivos do curso">
+      <created>1678211068060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678211068060</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adicionando arquivos do curso">
+      <created>1678211611333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678211611333</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit" />
+    <MESSAGE value="Adicionando arquivos do curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando arquivos do curso" />
+  </component>
+</project>
